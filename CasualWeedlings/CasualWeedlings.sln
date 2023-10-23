@@ -1,0 +1,86 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CasualWeedlings", "CasualWeedlings.vcxproj", "{C0C26F09-BE8B-48D0-BF8B-F0467A65D5D1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ImageLib", "..\ImageLib\ImageLib.vcxproj", "{BC8BFFB8-7E39-411A-B856-A75B1DF2D2F6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SexyAppBase", "..\SexyAppFramework\SexyAppBase VS2005.vcxproj", "{DA08CABA-92AC-40F0-B63D-6ACE7814D600}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ResourceGen", "..\ResourceGen\ResourceGen\ResourceGen.vcxproj", "{2A315098-0F9C-48D3-A723-B8CFC26BFC71}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Popcap Framework", "Popcap Framework", "{CEEF3A67-3295-45B0-A712-47A715F1E1CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug - Incremental|x86 = Debug - Incremental|x86
+		Debug - Zylom|x86 = Debug - Zylom|x86
+		Debug|x86 = Debug|x86
+		Release - Zylom|x86 = Release - Zylom|x86
+		Release noop|x86 = Release noop|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0C26F09-BE8B-48D0-BF8B-F0467A65D5D1}.Debug - Incremental|x86.ActiveCfg = Debug - Incremental|Win32
+		{C0C26F09-BE8B-48D0-BF8B-F0467A65D5D1}.Debug - Incremental|x86.Build.0 = Debug - Incremental|Win32
+		{C0C26F09-BE8B-48D0-BF8B-F0467A65D5D1}.Debug - Zylom|x86.ActiveCfg = Debug - Zylom|Win32
+		{C0C26F09-BE8B-48D0-BF8B-F0467A65D5D1}.Debug - Zylom|x86.Build.0 = Debug - Zylom|Win32
+		{C0C26F09-BE8B-48D0-BF8B-F0467A65D5D1}.Debug|x86.ActiveCfg = Debug|Win32
+		{C0C26F09-BE8B-48D0-BF8B-F0467A65D5D1}.Debug|x86.Build.0 = Debug|Win32
+		{C0C26F09-BE8B-48D0-BF8B-F0467A65D5D1}.Release - Zylom|x86.ActiveCfg = Release - Zylom|Win32
+		{C0C26F09-BE8B-48D0-BF8B-F0467A65D5D1}.Release - Zylom|x86.Build.0 = Release - Zylom|Win32
+		{C0C26F09-BE8B-48D0-BF8B-F0467A65D5D1}.Release noop|x86.ActiveCfg = Release noop|Win32
+		{C0C26F09-BE8B-48D0-BF8B-F0467A65D5D1}.Release noop|x86.Build.0 = Release noop|Win32
+		{C0C26F09-BE8B-48D0-BF8B-F0467A65D5D1}.Release|x86.ActiveCfg = Release|Win32
+		{C0C26F09-BE8B-48D0-BF8B-F0467A65D5D1}.Release|x86.Build.0 = Release|Win32
+		{BC8BFFB8-7E39-411A-B856-A75B1DF2D2F6}.Debug - Incremental|x86.ActiveCfg = Debug - Zylom|Win32
+		{BC8BFFB8-7E39-411A-B856-A75B1DF2D2F6}.Debug - Incremental|x86.Build.0 = Debug - Zylom|Win32
+		{BC8BFFB8-7E39-411A-B856-A75B1DF2D2F6}.Debug - Zylom|x86.ActiveCfg = Debug - Zylom|Win32
+		{BC8BFFB8-7E39-411A-B856-A75B1DF2D2F6}.Debug - Zylom|x86.Build.0 = Debug - Zylom|Win32
+		{BC8BFFB8-7E39-411A-B856-A75B1DF2D2F6}.Debug|x86.ActiveCfg = Debug|Win32
+		{BC8BFFB8-7E39-411A-B856-A75B1DF2D2F6}.Debug|x86.Build.0 = Debug|Win32
+		{BC8BFFB8-7E39-411A-B856-A75B1DF2D2F6}.Release - Zylom|x86.ActiveCfg = Release - Zylom|Win32
+		{BC8BFFB8-7E39-411A-B856-A75B1DF2D2F6}.Release - Zylom|x86.Build.0 = Release - Zylom|Win32
+		{BC8BFFB8-7E39-411A-B856-A75B1DF2D2F6}.Release noop|x86.ActiveCfg = Release - Zylom|Win32
+		{BC8BFFB8-7E39-411A-B856-A75B1DF2D2F6}.Release noop|x86.Build.0 = Release - Zylom|Win32
+		{BC8BFFB8-7E39-411A-B856-A75B1DF2D2F6}.Release|x86.ActiveCfg = Release|Win32
+		{BC8BFFB8-7E39-411A-B856-A75B1DF2D2F6}.Release|x86.Build.0 = Release|Win32
+		{DA08CABA-92AC-40F0-B63D-6ACE7814D600}.Debug - Incremental|x86.ActiveCfg = Debug - Incremental|Win32
+		{DA08CABA-92AC-40F0-B63D-6ACE7814D600}.Debug - Incremental|x86.Build.0 = Debug - Incremental|Win32
+		{DA08CABA-92AC-40F0-B63D-6ACE7814D600}.Debug - Zylom|x86.ActiveCfg = Debug - Zylom|Win32
+		{DA08CABA-92AC-40F0-B63D-6ACE7814D600}.Debug - Zylom|x86.Build.0 = Debug - Zylom|Win32
+		{DA08CABA-92AC-40F0-B63D-6ACE7814D600}.Debug|x86.ActiveCfg = Debug|Win32
+		{DA08CABA-92AC-40F0-B63D-6ACE7814D600}.Debug|x86.Build.0 = Debug|Win32
+		{DA08CABA-92AC-40F0-B63D-6ACE7814D600}.Release - Zylom|x86.ActiveCfg = Release - Zylom|Win32
+		{DA08CABA-92AC-40F0-B63D-6ACE7814D600}.Release - Zylom|x86.Build.0 = Release - Zylom|Win32
+		{DA08CABA-92AC-40F0-B63D-6ACE7814D600}.Release noop|x86.ActiveCfg = Release noop|Win32
+		{DA08CABA-92AC-40F0-B63D-6ACE7814D600}.Release noop|x86.Build.0 = Release noop|Win32
+		{DA08CABA-92AC-40F0-B63D-6ACE7814D600}.Release|x86.ActiveCfg = Release|Win32
+		{DA08CABA-92AC-40F0-B63D-6ACE7814D600}.Release|x86.Build.0 = Release|Win32
+		{2A315098-0F9C-48D3-A723-B8CFC26BFC71}.Debug - Incremental|x86.ActiveCfg = Debug|Win32
+		{2A315098-0F9C-48D3-A723-B8CFC26BFC71}.Debug - Incremental|x86.Build.0 = Debug|Win32
+		{2A315098-0F9C-48D3-A723-B8CFC26BFC71}.Debug - Zylom|x86.ActiveCfg = Debug|Win32
+		{2A315098-0F9C-48D3-A723-B8CFC26BFC71}.Debug - Zylom|x86.Build.0 = Debug|Win32
+		{2A315098-0F9C-48D3-A723-B8CFC26BFC71}.Debug|x86.ActiveCfg = Debug|Win32
+		{2A315098-0F9C-48D3-A723-B8CFC26BFC71}.Debug|x86.Build.0 = Debug|Win32
+		{2A315098-0F9C-48D3-A723-B8CFC26BFC71}.Release - Zylom|x86.ActiveCfg = Release|Win32
+		{2A315098-0F9C-48D3-A723-B8CFC26BFC71}.Release - Zylom|x86.Build.0 = Release|Win32
+		{2A315098-0F9C-48D3-A723-B8CFC26BFC71}.Release noop|x86.ActiveCfg = Release|Win32
+		{2A315098-0F9C-48D3-A723-B8CFC26BFC71}.Release noop|x86.Build.0 = Release|Win32
+		{2A315098-0F9C-48D3-A723-B8CFC26BFC71}.Release|x86.ActiveCfg = Release|Win32
+		{2A315098-0F9C-48D3-A723-B8CFC26BFC71}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BC8BFFB8-7E39-411A-B856-A75B1DF2D2F6} = {CEEF3A67-3295-45B0-A712-47A715F1E1CE}
+		{DA08CABA-92AC-40F0-B63D-6ACE7814D600} = {CEEF3A67-3295-45B0-A712-47A715F1E1CE}
+		{2A315098-0F9C-48D3-A723-B8CFC26BFC71} = {CEEF3A67-3295-45B0-A712-47A715F1E1CE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0EB5886-AE08-4E0C-A7BC-CACD95647272}
+	EndGlobalSection
+EndGlobal

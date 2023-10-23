@@ -1,0 +1,4 @@
+﻿  GameApp.cpp
+E:\Weedlings\SexyAppFramework\KeyCodes.h(102,2): warning C4091: 'typedef ': ignored on left of 'Sexy::KeyCode' when no variable is declared
+.\Debug\GameApp.obj : warning LNK4042: object specified more than once; extras ignored
+  CasualWeedlings.vcxproj -> E:\Weedlings\CasualWeedlings\DebugVS2005\CasualWeedlings.exe

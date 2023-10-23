@@ -1,0 +1,186 @@
+﻿  ImageLib.cpp
+C:\Users\jerem\RiderProjects\LawnOfDead\ImageLib\ImageLib.cpp(231,11): warning C5033: 'register' is no longer a supported storage class
+C:\Users\jerem\RiderProjects\LawnOfDead\ImageLib\ImageLib.cpp(233,11): warning C5033: 'register' is no longer a supported storage class
+C:\Users\jerem\RiderProjects\LawnOfDead\ImageLib\ImageLib.cpp(525,12): warning C5033: 'register' is no longer a supported storage class
+C:\Users\jerem\RiderProjects\LawnOfDead\ImageLib\ImageLib.cpp(528,12): warning C5033: 'register' is no longer a supported storage class
+C:\Users\jerem\RiderProjects\LawnOfDead\ImageLib\ImageLib.cpp(580,12): warning C5033: 'register' is no longer a supported storage class
+  PakInterface.cpp
+  GraphicsBuild.cpp
+C:\Users\jerem\RiderProjects\LawnOfDead\SexyAppFramework\D3DInterface.cpp(2128,43): warning C4838: conversion from 'int' to 'D3DVALUE' requires a narrowing conversion
+C:\Users\jerem\RiderProjects\LawnOfDead\SexyAppFramework\D3DInterface.cpp(2128,67): warning C4838: conversion from 'int' to 'D3DVALUE' requires a narrowing conversion
+C:\Users\jerem\RiderProjects\LawnOfDead\SexyAppFramework\DDImage.cpp(2885,31): warning C4838: conversion from '_T' to 'LONG' requires a narrowing conversion
+          with
+          [
+              _T=double
+          ]
+C:\Users\jerem\RiderProjects\LawnOfDead\SexyAppFramework\DDImage.cpp(2885,46): warning C4838: conversion from '_T' to 'LONG' requires a narrowing conversion
+          with
+          [
+              _T=double
+          ]
+C:\Users\jerem\RiderProjects\LawnOfDead\SexyAppFramework\DDImage.cpp(2885,65): warning C4838: conversion from '_T' to 'LONG' requires a narrowing conversion
+          with
+          [
+              _T=double
+          ]
+C:\Users\jerem\RiderProjects\LawnOfDead\SexyAppFramework\DDImage.cpp(2885,100): warning C4838: conversion from '_T' to 'LONG' requires a narrowing conversion
+          with
+          [
+              _T=double
+          ]
+C:\Users\jerem\RiderProjects\LawnOfDead\SexyAppFramework\MemoryImage.cpp(1494,31): warning C4838: conversion from 'const _T' to 'float' requires a narrowing conversion
+          with
+          [
+              _T=int
+          ]
+C:\Users\jerem\RiderProjects\LawnOfDead\SexyAppFramework\MemoryImage.cpp(1494,50): warning C4838: conversion from 'const _T' to 'float' requires a narrowing conversion
+          with
+          [
+              _T=int
+          ]
+C:\Users\jerem\RiderProjects\LawnOfDead\SexyAppFramework\MemoryImage.cpp(1495,34): warning C4838: conversion from 'const _T' to 'float' requires a narrowing conversion
+          with
+          [
+              _T=int
+          ]
+C:\Users\jerem\RiderProjects\LawnOfDead\SexyAppFramework\MemoryImage.cpp(1495,54): warning C4838: conversion from 'const _T' to 'float' requires a narrowing conversion
+          with
+          [
+              _T=int
+          ]
+C:\Users\jerem\RiderProjects\LawnOfDead\SexyAppFramework\MemoryImage.cpp(1770,23): warning C4838: conversion from 'unsigned int' to 'long' requires a narrowing conversion
+C:\Users\jerem\RiderProjects\LawnOfDead\SexyAppFramework\MemoryImage.cpp(1771,22): warning C4838: conversion from 'unsigned int' to 'long' requires a narrowing conversion
+C:\Users\jerem\RiderProjects\LawnOfDead\SexyAppFramework\MemoryImage.cpp(1772,23): warning C4838: conversion from 'unsigned int' to 'long' requires a narrowing conversion
+C:\Users\jerem\RiderProjects\LawnOfDead\SexyAppFramework\MemoryImage.cpp(1773,22): warning C4838: conversion from 'unsigned int' to 'long' requires a narrowing conversion
+C:\Users\jerem\RiderProjects\LawnOfDead\SexyAppFramework\KeyCodes.h(102,2): warning C4091: 'typedef ': ignored on left of 'Sexy::KeyCode' when no variable is declared
+  MiscBuildBase.cpp
+C:\Users\jerem\RiderProjects\LawnOfDead\SexyAppFramework\SexyMatrix.cpp(331,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jerem\RiderProjects\LawnOfDead\SexyAppFramework\SEHCatcher.cpp(369,19): warning C4477: 'sprintf' : format string '%08X' requires an argument of type 'unsigned int', but variadic argument 3 has type 'PVOID'
+C:\Users\jerem\RiderProjects\LawnOfDead\SexyAppFramework\SEHCatcher.cpp(375,19): warning C4477: 'sprintf' : format string '%08X' requires an argument of type 'unsigned int', but variadic argument 2 has type 'PVOID'
+C:\Users\jerem\RiderProjects\LawnOfDead\SexyAppFramework\SEHCatcher.cpp(494,26): warning C4477: 'sprintf' : format string '%08X' requires an argument of type 'unsigned int', but variadic argument 2 has type 'PDWORD'
+C:\Users\jerem\RiderProjects\LawnOfDead\SexyAppFramework\KeyCodes.h(102,2): warning C4091: 'typedef ': ignored on left of 'Sexy::KeyCode' when no variable is declared
+C:\Users\jerem\RiderProjects\LawnOfDead\SexyAppFramework\Buffer.cpp(36,11): warning C5033: 'register' is no longer a supported storage class
+C:\Users\jerem\RiderProjects\LawnOfDead\SexyAppFramework\Buffer.cpp(37,11): warning C5033: 'register' is no longer a supported storage class
+C:\Users\jerem\RiderProjects\LawnOfDead\SexyAppFramework\Buffer.cpp(62,11): warning C5033: 'register' is no longer a supported storage class
+  SexyAppBase.cpp
+C:\Users\jerem\RiderProjects\LawnOfDead\SexyAppFramework\KeyCodes.h(102,2): warning C4091: 'typedef ': ignored on left of 'Sexy::KeyCode' when no variable is declared
+C:\Users\jerem\RiderProjects\LawnOfDead\SexyAppFramework\SexyAppBase.cpp(674,19): warning C4267: 'initializing': conversion from 'size_t' to 'ushort', possible loss of data
+C:\Users\jerem\RiderProjects\LawnOfDead\SexyAppFramework\SexyAppBase.cpp(3696,18): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'HWND'
+  SoundBuild.cpp
+C:\Users\jerem\RiderProjects\LawnOfDead\SexyAppFramework\DSoundManager.cpp(912,17): warning C4267: 'initializing': conversion from 'size_t' to 'ushort', possible loss of data
+  SWTri.cpp
+  WidgetBuildBase.cpp
+C:\Users\jerem\RiderProjects\LawnOfDead\SexyAppFramework\KeyCodes.h(102,2): warning C4091: 'typedef ': ignored on left of 'Sexy::KeyCode' when no variable is declared
+  cdjpeg.c
+  jcapimin.c
+  jcapistd.c
+  jccoefct.c
+  jccolor.c
+  jcdctmgr.c
+  jchuff.c
+  jcinit.c
+  jcmainct.c
+  jcmarker.c
+  jcmaster.c
+  jcomapi.c
+  jcparam.c
+  jcphuff.c
+  jcprepct.c
+  jcsample.c
+  jctrans.c
+  jdapimin.c
+  jdapistd.c
+  jdatadst.c
+  Compiling...
+  jdatasrc.c
+  jdcoefct.c
+  jdcolor.c
+  jddctmgr.c
+  jdhuff.c
+  jdinput.c
+  jdmainct.c
+  jdmarker.c
+  jdmaster.c
+  jdmerge.c
+  jdphuff.c
+  jdpostct.c
+  jdsample.c
+  jdtrans.c
+  jerror.c
+  jfdctflt.c
+  jfdctfst.c
+  jfdctint.c
+  jidctflt.c
+  jidctfst.c
+  Compiling...
+  jidctint.c
+  jidctred.c
+  jmemmgr.c
+  jmemnobs.c
+  jquant1.c
+  jquant2.c
+  jutils.c
+  rdbmp.c
+  rdcolmap.c
+  rdgif.c
+  rdppm.c
+  rdrle.c
+  rdswitch.c
+  rdtarga.c
+  transupp.c
+  wrbmp.c
+  wrgif.c
+  wrppm.c
+  wrrle.c
+  wrtarga.c
+  Compiling...
+  png.c
+  pngerror.c
+  pngget.c
+  pngmem.c
+  pngpread.c
+  pngread.c
+  pngrio.c
+  pngrtran.c
+  pngrutil.c
+  pngset.c
+  pngtrans.c
+  pngvcrd.c
+  pngwio.c
+  pngwrite.c
+  pngwtran.c
+  pngwutil.c
+  adler32.c
+  compress.c
+  crc32.c
+  deflate.c
+  Compiling...
+  gzio.c
+  infblock.c
+  infcodes.c
+  inffast.c
+  inflate.c
+  inftrees.c
+  infutil.c
+  trees.c
+  uncompr.c
+  zutil.c
+  bitwise.c
+  block.c
+  codebook.c
+  floor0.c
+  floor1.c
+  framing.c
+  info.c
+  mapping0.c
+  mdct.c
+  registry.c
+  Compiling...
+  res012.c
+  sharedbook.c
+  synthesis.c
+  vorbisfile.c
+  window.c
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1571,5): warning MSB8012: TargetPath(C:\Users\jerem\RiderProjects\LawnOfDead\SexyAppFramework\ReleaseVS2005\SexyAppBase.lib) does not match the Library's OutputFile property value (C:\Users\jerem\RiderProjects\LawnOfDead\SexyAppFramework\Release\SexyAppFramework.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1573,5): warning MSB8012: TargetName(SexyAppBase) does not match the Library's OutputFile property value (SexyAppFramework). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  SexyAppBase VS2005.vcxproj -> C:\Users\jerem\RiderProjects\LawnOfDead\SexyAppFramework\ReleaseVS2005\SexyAppBase.lib

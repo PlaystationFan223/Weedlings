@@ -1,0 +1,5 @@
+LawnResources
+C:\Users\jerem\RiderProjects\LawnOfDead\Debug\properties\resources.xml
+C:\Users\jerem\RiderProjects\LawnOfDead\Lawn\Resources\Res
+
+

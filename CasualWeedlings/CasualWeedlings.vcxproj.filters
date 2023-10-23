@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="GameApp.h">
+      <Filter>App</Filter>
+    </ClCompile>
+    <ClCompile Include="GameApp.cpp">
+      <Filter>App</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="App">
+      <UniqueIdentifier>{31e39d12-5628-402a-af62-85a3b127e131}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
